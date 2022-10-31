@@ -24,5 +24,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## *how to use app*
 `clone repo`
+then...
 `npm install`
+finally...
 `npm start`
