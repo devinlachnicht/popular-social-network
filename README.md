@@ -23,8 +23,11 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## *how to use app*
-`clone repo`
-then...
-`npm install`
-finally...
+`clone repo`  
+*in terminal...*       
+`npm install`  
+*finally...*    
 `npm start`
+
+## *links*
+<a href="https://drive.google.com/file/d/1c8qCZlYlZYG77hjEf2MxJChoT4VNJZLE/view" target="_blank">Walkthrough Video</a>
